@@ -1,0 +1,2 @@
+# .github
+BAM eScience projects
