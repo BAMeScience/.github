@@ -2,4 +2,4 @@
 BAM eScience projects
 
 
-Mat-o-Lab projects https://github.com/Mat-O-Lab
+Mat-o-Lab repositories: https://github.com/Mat-O-Lab
