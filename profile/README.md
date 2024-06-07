@@ -17,5 +17,3 @@ Our group develops and provides methods for integrating  research data managemen
 
 The data science team of our group focuses on developing novel informatic approaches (e.g. using machine learning and applied statistics) to accelerate the search and discovery of new materials and to better understand material structures and their relationship to material properties. The goal is to develop models that provide both accurate prediction and good interpretability to increase our understanding the link between structure and properties of a material.
 
-The eScience is also active in the Mat-o-Lab project which repositories can be found here:
-https://github.com/Mat-O-Lab
